@@ -48,8 +48,6 @@ Alzheimers-DL-Network-master/
 
 🚀 How to Run Locally
 1️⃣ Clone the Repository
-git clone https://github.com/TalhaShaikh922/Alzheimer-s-MRI-Prediction-System.git
-cd Alzheimer-s-MRI-Prediction-System
 
 2️⃣ Setup Backend (FastAPI)
 # Create virtual environment (optional but recommended)
@@ -97,10 +95,6 @@ You can install them using:
 
 pip install -r requirements.txt
 
-🧑‍💻 Contributors
-
-👤 Shaikh Mohd Talha
-📍 Project: Alzheimer’s MRI Prediction System
 
 🛠️ Future Improvements
 
